@@ -1,0 +1,9 @@
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\questionCreator.pdb
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\obj\Debug\questionCreator.csprojResolveAssemblyReference.cache
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\obj\Debug\questionCreator.pdb
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\questionCreator.dll.config
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\bin\Debug\questionCreator.dll
+C:\Users\Guy\Documents\GitHub\questionCreator\questionCreator\obj\Debug\questionCreator.dll

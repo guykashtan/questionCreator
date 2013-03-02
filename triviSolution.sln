@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "questionCreator", "questionCreator\questionCreator.csproj", "{0E0A46FB-C1B7-4BC6-8C8E-AFA8639D69DE}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "kashtan(1)", "http://localhost:9112", "{E0FBA33E-A294-4C40-BB06-D400E5E46E53}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{0e0a46fb-c1b7-4bc6-8c8e-afa8639d69de}|questionCreator.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_9112"
+		Debug.AspNetCompiler.PhysicalPath = "..\kashtan\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9112\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_9112"
+		Release.AspNetCompiler.PhysicalPath = "..\kashtan\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_9112\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\kashtan\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "triviDb", "..\triviDb\triviDb.sqlproj", "{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0A46FB-C1B7-4BC6-8C8E-AFA8639D69DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0A46FB-C1B7-4BC6-8C8E-AFA8639D69DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0A46FB-C1B7-4BC6-8C8E-AFA8639D69DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0A46FB-C1B7-4BC6-8C8E-AFA8639D69DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FBA33E-A294-4C40-BB06-D400E5E46E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FBA33E-A294-4C40-BB06-D400E5E46E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FBA33E-A294-4C40-BB06-D400E5E46E53}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FBA33E-A294-4C40-BB06-D400E5E46E53}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90602E2-46CF-4A58-8A8A-B26C2EC8ACA0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
